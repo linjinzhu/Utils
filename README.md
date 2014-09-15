@@ -10,6 +10,11 @@ how manany utils do you have?
 how to use?
 ===========
 
+1. step 1 : Import headers.
+2. step 2 : Write code where you need use.
+
+Sample Code:
+
 `AppLaunchTimes.h`
   
     // AppLaunchTimes
